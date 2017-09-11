@@ -1,6 +1,6 @@
 void swap (int & a, int & b)
 {
-	int d;
+	int f;
 	int c;
 	c = a;
 	a = b;
